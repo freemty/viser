@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
-"""Gen3R + SpaTracker-style teaser visualizer built on top of viser."""
+"""Gen3R + SpaTracker-style teaser visualizer built on top of viser.
+Example usage:
+    python vis_tasks/gen3r_teaser.py --dataset-root assets/example_data/gen3r/re10k/113
+"""
 
 from __future__ import annotations
 
